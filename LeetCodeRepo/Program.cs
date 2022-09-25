@@ -27,4 +27,30 @@ Console.WriteLine(_557_ReverseWordsInString.ReverseWords(s));
            Console.WriteLine(_1491_AverageSalaryExcludingTheMinMaxSalary.Average(salary));
 */
 
+/*
+ * Day2:
+ * 191: Number of 1 Bits
+    uint n = 11111111111111111111111111111101;
+    Console.WriteLine(_191_NumberOfOneBits.HammingWeight(n));
+    1281: Subtract the Product and Sum of Digits of an Integer
+    Given an integer number n, return the difference between the product of its digits and the sum of its digits.
+    Console.WriteLine(_1281_SubtractTheProducts.SubtractProductAndSum(234));*/
+
+/*Day3:
+ Task 1:
+    976. Largest perimeter triangle
+    Given an integer array nums, return the largest perimeter of a triangle with a non-zero area, formed from three of these lengths. 
+    If it is impossible to form any triangle of a non-zero area, return 0.
+        int[] nums = { 3, 6, 2, 3 };
+        Console.WriteLine(_976_LargestPerimeterTriangle.LargestPerimeter(nums));
+ Task2:
+    1779. Find Nearest Point That Has the Same X or Y Coordinate
+    */
+int x = 3;
+int y = 4;
+int[][] points = new int[][] { new int[] { 3,4} };
+Console.WriteLine(_1779_NearesPointThatHasTheSameCoordinates.NearestValidPoint(x, y, points));
+
+
+
 

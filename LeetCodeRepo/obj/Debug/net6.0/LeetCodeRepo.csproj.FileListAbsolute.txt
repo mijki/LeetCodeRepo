@@ -13,3 +13,18 @@ C:\Users\miklos.kiss\OneDrive - Accenture\Accenture\Visual Studio\PracticeRepos\
 C:\Users\miklos.kiss\OneDrive - Accenture\Accenture\Visual Studio\PracticeRepos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.pdb
 C:\Users\miklos.kiss\OneDrive - Accenture\Accenture\Visual Studio\PracticeRepos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.genruntimeconfig.cache
 C:\Users\miklos.kiss\OneDrive - Accenture\Accenture\Visual Studio\PracticeRepos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\ref\LeetCodeRepo.dll
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.csproj.AssemblyReference.cache
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.AssemblyInfoInputs.cache
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.AssemblyInfo.cs
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.csproj.CoreCompileInputs.cache
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.dll
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\refint\LeetCodeRepo.dll
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.pdb
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\bin\Debug\net6.0\LeetCodeRepo.exe
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\bin\Debug\net6.0\LeetCodeRepo.deps.json
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\bin\Debug\net6.0\LeetCodeRepo.runtimeconfig.json
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\bin\Debug\net6.0\LeetCodeRepo.dll
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\bin\Debug\net6.0\LeetCodeRepo.pdb
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\LeetCodeRepo.genruntimeconfig.cache
+C:\Users\mijki\RiderProjects\LeetCodeRepo\LeetCodeRepo\obj\Debug\net6.0\ref\LeetCodeRepo.dll
