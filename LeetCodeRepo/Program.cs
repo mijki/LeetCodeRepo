@@ -45,11 +45,48 @@ Console.WriteLine(_557_ReverseWordsInString.ReverseWords(s));
         Console.WriteLine(_976_LargestPerimeterTriangle.LargestPerimeter(nums));
  Task2:
     1779. Find Nearest Point That Has the Same X or Y Coordinate
-    */
-int x = 3;
-int y = 4;
-int[][] points = new int[][] { new int[] { 3,4} };
-Console.WriteLine(_1779_NearesPointThatHasTheSameCoordinates.NearestValidPoint(x, y, points));
+
+        int x = 3;
+        int y = 4;
+        int[][] points = new int[][] { new int[] { 3,4} };
+        Console.WriteLine(_1779_NearesPointThatHasTheSameCoordinates.NearestValidPoint(x, y, points));*/
+
+/*Day4:
+ 1822. Sign of the Product Of An Array
+        int[] nums = {50,25,95,36,30,74,56,90,13,51,48,94,47,9,16,62,20,33,7,2,34,84,48,22,67,34,48,28,56,65,13,35,90,2,97,84,56,48,18,72,38,94,42,37,34,46,-43,-38,-62,-88,-48,-55,-65,-17,-80};
+        Console.WriteLine(_1822_SignOfTheProductOfAnArray.ArraySign(nums));*/
+/*1502. Can Make Arithmetic Progression From Sequence
+        int[] arr = { 3, 5, 1 };
+        Console.WriteLine(_1502_CanMakeArithmeticProgFromSeq.CanMakeArithmeticProgression(arr));*/
+/*202. Happy Number
+        Console.WriteLine(_202_HappyNumber.IsHappy(2));*/
+/*1790. Check if One String Swap Can Make Strings Equal
+        string s1 = "bankb";
+        string s2 = "kannb";
+        Console.WriteLine(Convert.ToString(_1790_CheckIfOneStringSwapMakeStringsEqual.AreAlmostEqual(s1, s2)));*/
+
+/*Day5:
+ 589. N-ary Tree Preorder Traversal
+ 496. Next Greater Element I
+        int[] nums1 = { 4, 1, 2 };
+        int[] nums2 = { 1, 3, 4, 2 };
+        _496_NextGreaterElement.NextGreaterElement(nums1, nums2);*/
+/*1232. Check If It Is a Straight Line*/
+        int[][] coordinates =
+        {
+            new int[] { 1, 2 },
+            new int[] { 2, 3 },
+            new int[] { 3, 4 },
+            new int[] { 4, 5 },
+            new int[] { 5, 6 },
+            new int[] { 6, 7 }
+        };
+        Console.WriteLine(_1232_CheckIfItIsAStraightLine.CheckStraightLine(coordinates));
+
+
+    
+
+    
 
 
 
