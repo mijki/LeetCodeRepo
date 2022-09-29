@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mijki\\RiderProjects\\LeetCodeRepo\\LeetCodeRepo\\LeetCodeRepo.csproj": {}
+    "C:\\Users\\miklos.kiss\\OneDrive - Accenture\\Accenture\\Rider\\LeetCodeRepo\\LeetCodeRepo\\LeetCodeRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mijki\\RiderProjects\\LeetCodeRepo\\LeetCodeRepo\\LeetCodeRepo.csproj": {
+    "C:\\Users\\miklos.kiss\\OneDrive - Accenture\\Accenture\\Rider\\LeetCodeRepo\\LeetCodeRepo\\LeetCodeRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mijki\\RiderProjects\\LeetCodeRepo\\LeetCodeRepo\\LeetCodeRepo.csproj",
+        "projectUniqueName": "C:\\Users\\miklos.kiss\\OneDrive - Accenture\\Accenture\\Rider\\LeetCodeRepo\\LeetCodeRepo\\LeetCodeRepo.csproj",
         "projectName": "LeetCodeRepo",
-        "projectPath": "C:\\Users\\mijki\\RiderProjects\\LeetCodeRepo\\LeetCodeRepo\\LeetCodeRepo.csproj",
-        "packagesPath": "C:\\Users\\mijki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mijki\\RiderProjects\\LeetCodeRepo\\LeetCodeRepo\\obj\\",
+        "projectPath": "C:\\Users\\miklos.kiss\\OneDrive - Accenture\\Accenture\\Rider\\LeetCodeRepo\\LeetCodeRepo\\LeetCodeRepo.csproj",
+        "packagesPath": "C:\\Users\\miklos.kiss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miklos.kiss\\OneDrive - Accenture\\Accenture\\Rider\\LeetCodeRepo\\LeetCodeRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mijki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\miklos.kiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
